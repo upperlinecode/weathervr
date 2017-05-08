@@ -1,5 +1,5 @@
 var color = "#0500ff"
-var place = "New York"
+var place = "Miami"
 var myUrl = "http://api.openweathermap.org/data/2.5/forecast/daily?q={" + place + "}&cnt=7&mode=json&units=imperial&appid=f052497bd343eaf43714ad0afe195a51"
 
 $(document).ready(function(){
